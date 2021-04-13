@@ -23,7 +23,7 @@ Originally, we found the data in .txt files with separation ':' between columns 
 - Job
 
 As my computer had difficulties in opening the document flat + 2gb, I thought about how to load large files in a mysql database.
-Originally I thought of a simple INSERT INTO``` but it took longer than desired, so I decided to use the ```LOAD DATA LOCAL INFILE``` function, since it inserts data from large files faster. There are lines that do not have all the information so, I did a little cleaning within the data load function.
+Originally I thought of a simple ```INSERT INTO``` but it took longer than desired, so I decided to use the ```LOAD DATA LOCAL INFILE``` function, since it inserts data from large files faster. There are lines that do not have all the information so, I did a little cleaning within the data load function.
 
 For the test file, I have used totally anonymous data, since the purpose of this test is educational for data analysis and insertion. 
 
