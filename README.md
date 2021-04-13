@@ -14,7 +14,7 @@ At first glance, I used commands from the terminal.
 
 Originally, we found the data in .txt files with separation ':' between columns and some of the columns as empty. Each line has the following data:
 - Phone number
-- Facebook ID (http://facebook.com/profile.php?id={Facebook})
+- Facebook ID (http://facebook.com/profile.php?id={FacebookID})
 - Username
 - UserSurname
 - City and country
