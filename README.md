@@ -2,12 +2,15 @@
 
 Taking advantage of the repercussion that the facebook security breach has had (Facebook Leak 2019), I did a superficial analysis of the data found on the network.
 
-At first glance, I used commands from the terminal.  
+At first glance, I used commands from the terminal. 
+
+```
   wc spain.txt -- 10.894.206
   grep @ spain.txt | wc -- 75.636
   grep -w female spain.txt | wc -- 4.964.218
   grep relationship spain.txt | wc -- 393.081
   head -10 spain.txt
+```
 
 Originally, we found the data in .txt files with separation ':' between columns and some of the columns as empty. Each line has the following data:
 - Phone number
