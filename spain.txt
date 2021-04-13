@@ -1,0 +1,4 @@
+34600000001:0000000001:Name1:Surname1:male:Madrid, Spain:Valencia, Spain:Single::2005::
+34600000001:0000000002:Name2:Surname2:female:Barcelona, Spain:Granada, Spain:In a relationship::2005::
+34600000002:0000000003:Name3:Surname3:female:Sevilla, Spain::Married:Company3:2008:test3@email.com:
+34600000003:0000000004:Name4:Surname4:male:Murcia, Spain:::Company4::test4@email.com:
